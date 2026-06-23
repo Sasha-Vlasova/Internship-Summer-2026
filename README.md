@@ -1,2 +1,2 @@
-# Krahnborn-Internship---Claude-Certification
-Krahnborn Internship - Claude Certification and Learning
+# Claude Certification
+Claude Certification and Learning
